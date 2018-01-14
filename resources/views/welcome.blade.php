@@ -79,16 +79,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    INSCRIPCIÓN USUARIOS
                 </div>
+                <h1>Loggeate para ver el contenido</h1>
+                <h4>Usuario: prueba@prueba.com, Contraseña: prueba</h4>
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
+                <h4>Código fuente: <a target="_blank" href="https://github.com/andres187/registrousuario">https://github.com/andres187/registrousuario</a></h4>
+
             </div>
         </div>
     </body>

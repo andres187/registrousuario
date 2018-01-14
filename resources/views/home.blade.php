@@ -15,6 +15,7 @@
                     @endif
 
                     <a href="{{ URL('users') }}" class="btn btn-sm btn-primary">Registro de usuario nuevo</a>
+                    <h4>Código fuente: <a target="_blank" href="https://github.com/andres187/registrousuario">https://github.com/andres187/registrousuario</a></h4>
                 </div>
             </div>
         </div>
